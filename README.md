@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal, single page hackathon website built on top of <a href="https://colorlib.com/wp/template/colid/" target="_blank">Colid</a>.</h4>
+<h4 align="center">A hackathon registration and information website built on top of <a href="https://colorlib.com/wp/template/colid/" target="_blank">Colid</a>.</h4>
 
 <p align="center">
   <a href="#design-goals">Design Goals</a> •
